@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm Priya Kalamkar ✨️<br>Passionate about Web Development.<br>Love building projects from scratch using HTML, CSS, JavaScript, Node.js, Express.js, EJS, and soon MongoDB<br>Consistency is my superpower: I learn fast and apply by building projects<br>Currently exploring AI integrations and full-stack applications<br>Always curious and aiming to create unique, practical projects
+Hi I'm Priya Kalamkar ✨️<br>Passionate about Web Development.<br>Love building projects from scratch using HTML, CSS, JavaScript, Node.js, Express.js, EJS, and soon MongoDB.<br>Consistency is my superpower: I learn fast and apply by building projects.<br>Currently exploring AI integrations and full-stack applications.<br>Always curious and aiming to create unique, practical projects.
 
 
 ## 🌐 Socials:
