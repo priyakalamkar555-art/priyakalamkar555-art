@@ -40,6 +40,19 @@ I’m disciplined, consistent, and a fast learner, once I practice something, I 
 ![](https://github-readme-stats.vercel.app/api?username=priyakalamkar555-art&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=priyakalamkar555-art&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyakalamkar555-art&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=priyakalamkar555-art&theme=aura&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=priyakalamkar555-art&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyakalamkar555-art&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<!-- Profile Details Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyakalamkar555-art&theme=aura" alt="profile details"/>
+</div>
+
+
+## 📈 Contribution Graph
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=priyakalamkar555-art&theme=date_night&border=true)
+
+
 
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
